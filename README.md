@@ -1,4 +1,4 @@
-# Expense Tracker — Oracle SQL & PL/SQL Project
+# Expense Tracker â€” Oracle SQL & PL/SQL Project
 
 An SQL/PLSQL based Expense Tracker System developed as a learning project.  
 Designed for tracking expenses with categorized reports and procedure-driven data entry.
@@ -7,12 +7,12 @@ Designed for tracking expenses with categorized reports and procedure-driven dat
 
 ## Features
 
-- ? Manage Users with secure details
-- ? Categorize Expenses for each user
-- ? Record Expenses linked with categories and users
-- ? Pre-built PL/SQL Procedures for data insertion
-- ? Ready-made SQL Reports for analysis
-- ? Sample Data Scripts for Testing
+- Manage Users with secure details
+- Categorize Expenses for each user
+- Record Expenses linked with categories and users
+- Pre-built PL/SQL Procedures for data insertion
+- Ready-made SQL Reports for analysis
+- Sample Data Scripts for Testing
 
 ---
 
@@ -35,14 +35,14 @@ README.md
 
 ---
 
-## ?? Setup Instructions
+## Setup Instructions
 
-1? Clone the repository  
-2? Run **`sql_scripts/create_tables.sql`** in Oracle SQL Developer  
-3? Insert sample data using **`sample_data.sql`**  
-4? Create procedures from **`plsql_procedures/`** scripts  
-5? Test procedures using **`test_procedures.sql`**  
-6? Run reports from **`sql_scripts/expense_reports.sql`**  
+1 Clone the repository  
+2 Run **`sql_scripts/create_tables.sql`** in Oracle SQL Developer  
+3 Insert sample data using **`sample_data.sql`**  
+4 Create procedures from **`plsql_procedures/`** scripts  
+5 Test procedures using **`test_procedures.sql`**  
+6 Run reports from **`sql_scripts/expense_reports.sql`**  
 
 ---
 
@@ -65,7 +65,7 @@ ORDER BY e.expense_date DESC;
 
 ## Created By
 
-**Akshay Machivale — July 2025**  
+**Akshay Machivale â€” July 2025**  
 *This project is a part of personal learning & SQL/PLSQL practice.*
 
 ---
